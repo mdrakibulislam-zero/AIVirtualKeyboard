@@ -9,7 +9,7 @@ Look for yourself in this <a href="#">video</a>.
 ## What Have I Done:
 Firstly, I have created a Hand Tracking Module using openCV and MediaPipe. Then, I have created my AI Virtual Keyboard using OpenCV and Pynput.
 
-OpenCV is a library used for computer vision applications. With help of OpenCV, we can build an enormous number of applications that work better in real-time. Mainly it is used for image and video processing.
+OpenCV is a library used for computer vision applications. With help of OpenCV, we can build an enormous number of applications that work better in real-time. Mainly it's used for image and video processing.
 
 MediaPipe is a framework mainly used for building audio, video, or any time series data. With the help of the MediaPipe framework, we can build very impressive pipelines for different media processing functions.
 
