@@ -7,13 +7,17 @@ Look for yourself in this <a href="#">video</a>.
 
 
 ## What Have I Done:
-Firstly, I have created a Hand Tracking Module using openCV and MediaPipe. Then, I have created my AI Virtual Keyboard using OpenCV and Pynput.
+Firstly, I've created a Hand Tracking Module using openCV, MediaPipe and Math. Then, I've created my AI Virtual Keyboard using OpenCV, Pynput, Time and Previously created Hand Tracking Module.
 
 OpenCV is a library used for computer vision applications. With help of OpenCV, we can build an enormous number of applications that work better in real-time. Mainly it's used for image and video processing.
 
 MediaPipe is a framework mainly used for building audio, video, or any time series data. With the help of the MediaPipe framework, we can build very impressive pipelines for different media processing functions.
 
+Math is a built-in module that we can use for mathematical tasks.
+
 Pynput is a library that allows us to control and monitor input devices. It contains subpackages for each type of input device supported.
+
+Time is a built-in module that we can use for handle time-related tasks.
 
 
 ## Required Packages:
