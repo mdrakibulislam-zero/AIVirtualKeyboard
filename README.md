@@ -1,5 +1,5 @@
 ## AI Virtual Keyboard:
-This is a simple virtual keyboard that works with gestures using OpenCV.
+This is a simple virtual keyboard that works with gestures using OpenCV. We will use our hand in the air to click on the keyboard.
 
 
 ## Outcome:
@@ -25,8 +25,9 @@ Pynput is a library that allows us to control and monitor input devices. It cont
 ## Usage:
 - First of all you need to install all required packages. 
 - Then run the AIVirtualKeyboard.py file. 
-- Now use one finger to hover on the keyboard.
-- Join your index finger and middle finger for make a click on keyboard.
+- Now rise your hand in-front of your camera.
+- Use one finger to hover on the keyboard.
+- Join your index and middle finger for make a click on your expected key.
 - If you want you can open Notepad or TextEdit for getting input in there.
 
 
