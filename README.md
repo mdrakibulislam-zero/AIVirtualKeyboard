@@ -7,7 +7,7 @@ Look for yourself in this <a href="#">video</a>.
 
 
 ## What Have I Done:
-Firstly, I've created a Hand Tracking Module using openCV, MediaPipe and Math. Then, I've created my AI Virtual Keyboard using OpenCV, Pynput, Time and Previously created Hand Tracking Module.
+Firstly, I've created a Hand Tracking Module using openCV, MediaPipe and Math. Then, I've created my AI Virtual Keyboard using OpenCV, Pynput, Time and previously created Hand Tracking Module.
 
 OpenCV is a library used for computer vision applications. With help of OpenCV, we can build an enormous number of applications that work better in real-time. Mainly it's used for image and video processing.
 
