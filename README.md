@@ -3,7 +3,7 @@ This is a simple virtual keyboard that works with gestures using OpenCV. We will
 
 
 ## Outcome:
-Look for yourself in this <a href="#">video</a>.
+Watch the <a href="#">Outcome</a>.
 
 
 ## What Have I Done:
@@ -31,8 +31,12 @@ Time is a built-in module that we can use for handle time-related tasks.
 - Then run the AIVirtualKeyboard.py file. 
 - Now rise your hand in-front of your camera.
 - Use one finger to hover on the keyboard.
-- Join your index and middle finger for make a click on your expected key.
+- Join your index and middle finger to click on your expected key.
 - If you want you can open Notepad or TextEdit for getting input in there.
+
+
+## Tutorial:
+Watch the step by step <a href="#">Tutorial</a>.
 
 
 ## Got a Question?
