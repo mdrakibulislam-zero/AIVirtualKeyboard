@@ -24,11 +24,13 @@ Time is a built-in module that we can use for handle time-related tasks.
 - opencv-python
 - mediapipe
 - pynput
+- math
+- time
 
 
 ## Usage:
 - First of all you need to install all required packages. 
-- Then run the AIVirtualKeyboard.py file. 
+- Then run the VirtualKeyboard.py file. 
 - Now rise your hand in-front of your camera.
 - Use one finger to hover on the keyboard.
 - Join your index and middle finger to click on your expected key.
